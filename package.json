@@ -1,7 +1,7 @@
 {
   "name": "faker-zh-cn",
   "description": "生成一堆假的（看起来像真的）数据",
-  "version": "0.5.8",
+  "version": "0.5.9",
   "author": "Michael Yin <layerssss@gmail.com>",
   "repository": {
     "type": "git",
